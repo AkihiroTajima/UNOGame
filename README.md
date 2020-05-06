@@ -1,6 +1,6 @@
 # UNOGame
 
-ugage
+usage
 
 ```
 javac *.java
